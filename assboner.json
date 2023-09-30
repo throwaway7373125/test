@@ -3,14 +3,14 @@
     "repoName": "ugly ass dog",
     "repoIcon": "https://media.discordapp.net/attachments/993650948373221426/1157802774193524897/IMG_7254.jpg"
   },
-  "Games": [
+  "Apps": [
     {
       "name": "Geometry Dash",
       "version": "v2.13",
       "icon": "https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG",
       "down": "https://s10download.krakenfiles.com/force-download/ZWQwNDQ5YTJmMGY4MjJiZU6CxOuO_YhAKj7yng3skRcsQASa56wSzRk_w8qtoNRK/bG3iK4hJR9",
       "dev": "RobTop Games",
-      "category": "Games",
+      "category": "Apps",
       "description": "mane i think everyone knows what this game is"
     },
     {
@@ -19,7 +19,7 @@
       "icon": "https://freepngimg.com/save/28717-gta-san-andreas-hd/512x512",
       "down": "https://cdn.iosvizor.com/grand-theft-auto-san-andreas/GTA-San-Andreas-v2.2.14-iosvizor.com.ipa",
       "dev": "Rockstar Games",
-      "category": "Games",
+      "category": "Apps",
       "description": "gand theft auto no way bro!!! (Download may be broken)"
     },
     {
@@ -28,7 +28,7 @@
       "icon": "https://preview.redd.it/c4d-fnaf-icon-remake-v0-lsqhwzjxe88a1.png?auto=webp&s=8d405cef799b075c1cc9554cce1b245cdc74654f",
       "down": "https://download.cokernutx.com/ipadownload/Five-Nights-at-Freddys.ipa",
       "dev": "Scott Cawthon",
-      "category": "Games",
+      "category": "Apps",
       "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS!!!"
     },
     {
@@ -37,7 +37,7 @@
       "icon": "https://static.wikia.nocookie.net/fivenightsatfreddys/images/b/b3/480px-Five_Nights_at_Freddy%27s_2_icon.jpg/revision/latest?cb=20141102170003",
       "down": "https://ia802201.us.archive.org/11/items/five-nights-at-freddys-2-2.0.4/Five%20Nights%20at%20Freddys%202%202.0.4.ipa",
       "dev": "Scott Cawthon",
-      "category": "Games",
+      "category": "Apps",
       "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS AGAIN!!!"
     },
     {
@@ -46,7 +46,7 @@
       "icon": "https://i.pinimg.com/originals/77/48/d6/7748d6df7aec585110338f92275802ce.png",
       "down": "https://ia802207.us.archive.org/28/items/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa",
       "dev": "Scott Cawthon",
-      "category": "Games",
+      "category": "Apps",
       "description": "THIS GAME SO SCARY... WEIRD BABY THING MAKE ME PEE PANTS!!!"
     },
     {
@@ -55,7 +55,7 @@
       "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Ultimate_Custom_Night_%28App_Icon%29.png/revision/latest?cb=20220625143324",
       "down": "https://ia902209.us.archive.org/16/items/ultimate-custom-night-1.0.1/Ultimate%20Custom%20Night%201.0.1.ipa",
       "dev": "Scott Cawthon",
-      "category": "Games",
+      "category": "Apps",
       "description": "THIS GAME SO SCARY... EVERY THING MAKE ME PEE PANTS!!!"
     },
     {
@@ -64,7 +64,7 @@
       "icon": "https://static.wikia.nocookie.net/freddy-fazbears-pizzeria-simulator/images/d/d3/Fnaf6icon.png/revision/latest/scale-to-width-down/180?cb=20190824045400",
       "down": "https://ia902204.us.archive.org/19/items/fnaf-6-pizzeria-simulator-v-1.0/FNAF%206%20Pizzeria%20Simulator%20v1.0.ipa",
       "dev": "Scott Cawthon",
-      "category": "Games",
+      "category": "Apps",
       "description": "THIS GAME SO SCARY... THE PIZZA HAS A GHOST!!!"
     },
     {
@@ -73,7 +73,7 @@
       "down": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
       "dev": "Brandon Plank",
       "icon": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
-      "category": "Games",
+      "category": "Apps",
       "description": "Remember that one game that had everyone raging? It's back."
     },
     {
@@ -82,7 +82,7 @@
       "down": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364.ipa",
       "dev": "Epic Games",
       "icon": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743",
-      "category": "Games",
+      "category": "Apps",
       "description": "Miss old Fortnite? Same here dude, same."
     },
     {
@@ -91,18 +91,16 @@
       "down": "https://s3download.krakenfiles.com/force-download/ZWI1YWZjNTNiMmMyYzg5NqkG1JkywA8k9kZ9CLyBqZI_Gep2KzTywxCrdCKCXC2j/fT6qO2EU1e",
       "dev": "Mojang (Microsoft)",
       "icon": "https://static.wikia.nocookie.net/minecraft/images/f/f3/PocketEditionNewIcon.png/revision/latest/scale-to-width/360?cb=20160417234446",
-      "category": "Games",
+      "category": "Apps",
       "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you?"
-    }
-  ]
-  "Jailbreaks": [
+    },
     {
       "name": "Taurine",
       "version": "v1.1.7",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
       "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7/Taurine_1.1.7.ipa",
       "dev": "Odyssey Team",
-      "category": "Jailbreaks",
+      "category": "Apps",
       "description": "iOS 14.0-14.8.1 Jailbreak"
     },
     {
@@ -111,7 +109,7 @@
       "icon": "https://theodyssey.dev/assets/images/icon.png",
       "down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
       "dev": "Odyssey Team",
-      "category": "Jailbreaks",
+      "category": "Apps",
       "description": "iOS 13.0 - 13.7 Jailbreak"
     },
     {
@@ -120,7 +118,7 @@
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
       "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "dev": "unc0ver Team",
-      "category": "Jailbreaks",
+      "category": "Apps",
       "description": "iOS 11.0 - 14.8 Jailbreak"
     },
     {
@@ -129,7 +127,7 @@
       "icon": "https://archive.org/download/electra_201903/electra.jpg",
       "down": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
       "dev": "Electra Team",
-      "category": "Jailbreaks",
+      "category": "Apps",
       "description": "iOS 11.0 – 11.4.1 Jailbreak"
     },
     {
@@ -138,7 +136,7 @@
       "icon": "https://media.idownloadblog.com/wp-content/uploads/2021/03/49A98F07-ADBD-4FFC-9C10-267731DB4F2C.jpeg",
       "down": "https://ios.vsharepe.com/jailbreak/Phoenix-jb.ipa",
       "dev": "Phoenix Team",
-      "category": "Jailbreaks",
+      "category": "Apps",
       "description": "iOS 9.3.5 - 9.3.6 Jailbreak (For 32bit)"
     },
     {
@@ -147,7 +145,7 @@
       "icon": "https://tweak-box.com/wp-content/uploads/2021/07/Pangu-jailbreak-app-1.png",
       "down": "http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa",
       "dev": "Pangu9 Team",
-      "category": "Jailbreaks",
+      "category": "Apps",
       "description": "iOS 9.2 - 9.3.3 Jailbreak"
     },
     {
@@ -156,8 +154,8 @@
       "icon": "https://tweak-box.com/wp-content/uploads/2021/07/Pangu-jailbreak-app-1.png",
       "down": "https://github.com/GeoSn0w/Blizzard-Jailbreak-9/releases/download/v1.3/Blizzard.Jailbreak.v1.3.ipa",
       "dev": "GeoSn0w",
-      "category": "Jailbreaks",
+      "category": "Apps",
       "description": "Jailbreak for any 32-bit iOS 9 device"
-    },
+    }
   ]
 }
