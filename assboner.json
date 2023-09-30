@@ -95,6 +95,15 @@
       "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you?"
     },
     {
+      "name": "Super Mario 64",
+      "version": "v1.2.1",
+      "down": "https://s6download.krakenfiles.com/force-download/NjM5NmJkNDQyNGViODU1MBbW_ao3Osn4VHBBYMvCwchZFnVfBtBuADOu8pXHoyU3/y2b5iwFScU",
+      "dev": "ckosmic",
+      "icon": "https://s6.krakenfiles.com/uploads/30-09-2023/7gUvaR2QcI/image.png",
+      "category": "Apps",
+      "description": "Super Mario 64. Pretty fun game, the 5th star of Shifting Sand Land is impossible on iOS though so don't even bother."
+    },
+    {
       "name": "Taurine",
       "version": "v1.1.7",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
