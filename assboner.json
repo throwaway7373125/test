@@ -122,11 +122,11 @@
     },
     {
       "name": "PPSSPP",
-      "version": "v1.15.3",
+      "version": "v1.15.4",
       "icon": "https://usescarlet.com/Repo/ppsspp.png",
-      "down": "https://bucket.usescarlet.com/scarletapps/PPSSPP_v1.15.4-69-gca75e2015.ipa",
+      "down": "https://p.xx.wtf/PPSSPP_v1.15.4-717-g56c2974e5.ipa",
       "category": "Apps",
-      "description": "PlayStation Portable emulator. Haven't tried it :| - Kosuq (Remember, back up your game save data in case you get revoked!)",
+      "description": "PlayStation Portable emulator. Haven't tried it :| - Kosuq (Remember, back up your game save data in case you get revoked!) (Taken from official Scarlet repo)",
     },
     {
       "name": "emuThreeDS",
