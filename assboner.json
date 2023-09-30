@@ -153,5 +153,14 @@
       "category": "Jailbreaks",
       "description": "iOS 9.2 - 9.3.3 Jailbreak",
     },
+    {
+      "name": "Blizzard",
+      "version": "v1.3",
+      "icon": "https://tweak-box.com/wp-content/uploads/2021/07/Pangu-jailbreak-app-1.png",
+      "down": "https://github.com/GeoSn0w/Blizzard-Jailbreak-9/releases/download/v1.3/Blizzard.Jailbreak.v1.3.ipa",
+      "dev": "GeoSn0w",
+      "category": "Jailbreaks",
+      "description": "Jailbreak for any 32-bit iOS 9 device",
+    },
   ],
 }
