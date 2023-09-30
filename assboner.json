@@ -95,7 +95,6 @@
       "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you?",
     }
   ],
-}
   "Jailbreaks": [
     {
       "name": "Taurine",
@@ -105,7 +104,6 @@
       "dev": "Odyssey Team",
       "category": "Jailbreaks",
       "description": "iOS 14.0-14.8.1 Jailbreak",
-      "bundleID": "com.odysseyteam.taurine",
     },
     {
       "name": "Odyssey",
@@ -114,7 +112,6 @@
       "down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
       "dev": "Odyssey Team",
       "category": "Jailbreaks",
-      "bundleID": "org.coolstar.odyssey",
       "description": "iOS 13.0 - 13.7 Jailbreak",
     },
     {
@@ -124,7 +121,6 @@
       "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "dev": "unc0ver Team",
       "category": "Jailbreaks",
-      "bundleID": "science.xnu.undecimus",
       "description": "iOS 11.0 - 14.8 Jailbreak",
     },
     {
