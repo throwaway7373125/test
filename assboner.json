@@ -98,7 +98,7 @@
     "Jailbreaks": [
     {
       "name": "Taurine",
-      "version": "1.1.7",
+      "version": "v1.1.7",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
       "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7/Taurine_1.1.7.ipa",
       "dev": "Odyssey Team",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Odyssey",
-      "version": "1.4.2",
+      "version": "v1.4.2",
       "icon": "https://theodyssey.dev/assets/images/icon.png",
       "down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
       "dev": "Odyssey Team",
@@ -118,7 +118,7 @@
     },
     {
       "name": "unc0ver",
-      "version": "8.0.2",
+      "version": "v8.0.2",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
       "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "dev": "unc0ver Team",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Electra",
-      "version": "2.0",
+      "version": "v2.0",
       "icon": "https://archive.org/download/electra_201903/electra.jpg",
       "down": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
       "dev": "Electra Team",
