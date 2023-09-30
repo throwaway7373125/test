@@ -101,7 +101,48 @@
       "dev": "ckosmic",
       "icon": "https://s6.krakenfiles.com/uploads/30-09-2023/7gUvaR2QcI/image.png",
       "category": "Apps",
-      "description": "Super Mario 64. Pretty fun game, the 5th star of Shifting Sand Land is impossible on iOS though so don't even bother."
+      "description": "Super Mario 64. Pretty fun game, the 5th star of Shifting Sand Land is impossible on iOS though so don't even bother. (Remember, back up your game save data in case you get revoked!)"
+    },
+    {
+      "name": "iNDS",
+      "version": "v1.10.8",
+      "icon": "https://iosninja.io/img/ipas/inds.png",
+      "down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+      "category": "Apps",
+      "description": "Nintendo DS emulator. Works wonders for me :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
+    },
+    {
+      "name": "Delta",
+      "version": "v1.4",
+      "icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
+      "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
+      "category": "Apps",
+      "description": "Delta. It's an emulator, doesn't really work all that well for me though :( - Kosuq (Remember, back up your game save data in case you get revoked!)",
+      "enableBackup": true
+    },
+    {
+      "name": "PPSSPP",
+      "version": "v1.15.3",
+      "icon": "https://usescarlet.com/Repo/ppsspp.png",
+      "down": "https://bucket.usescarlet.com/scarletapps/PPSSPP_v1.15.4-69-gca75e2015.ipa",
+      "category": "Apps",
+      "description": "PlayStation Portable emulator. Haven't tried it :| - Kosuq (Remember, back up your game save data in case you get revoked!)",
+    },
+    {
+      "name": "emuThreeDS",
+      "version": "v1.0.6.5",
+      "icon": "https://avatars.githubusercontent.com/u/122718334",
+      "down": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.5.6/emuThreeDS.v1.0.6.5.6.ipa",
+      "category": "Apps",
+      "description": "3DS emulator, really bipolar on when it wants to load ROMs or not. :| - Kosuq (Remember, back up your game save data in case you get revoked!)",
+    },
+    {
+      "name": "Provenance",
+      "version": "v2.2.0",
+      "icon": "https://avatars.githubusercontent.com/u/37421993",
+      "down": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
+      "category": "Apps",
+      "description": "Really reliable emulator for multiple consoles, I like it! :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
     },
     {
       "name": "Taurine",
