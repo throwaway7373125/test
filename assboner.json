@@ -1,0 +1,108 @@
+{
+  "META": {
+    "repoName": "ugly ass dog",
+    "repoIcon": "https://media.discordapp.net/attachments/993650948373221426/1157802774193524897/IMG_7254.jpg"
+  },
+  "Games": [
+    {
+      "name": "Geometry Dash",
+      "version": "v2.13",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG",
+      "down": "https://s10download.krakenfiles.com/force-download/ZWQwNDQ5YTJmMGY4MjJiZU6CxOuO_YhAKj7yng3skRcsQASa56wSzRk_w8qtoNRK/bG3iK4hJR9",
+      "dev": "RobTop Games",
+      "category": "Games",
+      "description": "mane i think everyone knows what this game is",
+      }
+    },
+    {
+      "name": "GTA: San Andreas",
+      "version": "v2.2.14",
+      "icon": "https://freepngimg.com/save/28717-gta-san-andreas-hd/512x512",
+      "down": "https://cdn.iosvizor.com/grand-theft-auto-san-andreas/GTA-San-Andreas-v2.2.14-iosvizor.com.ipa",
+      "dev": "Rockstar Games",
+      "category": "Games",
+      "description": "gand theft auto no way bro!!! (Download may be broken)",
+      }
+    },
+    {
+      "name": "Five Nights At Freddy's",
+      "version": "v1",
+      "icon": "https://preview.redd.it/c4d-fnaf-icon-remake-v0-lsqhwzjxe88a1.png?auto=webp&s=8d405cef799b075c1cc9554cce1b245cdc74654f",
+      "down": "https://download.cokernutx.com/ipadownload/Five-Nights-at-Freddys.ipa",
+      "dev": "Scott Cawthon",
+      "category": "Games",
+      "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS!!!",
+      }
+    },
+    {
+      "name": "Five Nights At Freddy's 2",
+      "version": "v2.0.4",
+      "icon": "https://static.wikia.nocookie.net/fivenightsatfreddys/images/b/b3/480px-Five_Nights_at_Freddy%27s_2_icon.jpg/revision/latest?cb=20141102170003",
+      "down": "https://ia802201.us.archive.org/11/items/five-nights-at-freddys-2-2.0.4/Five%20Nights%20at%20Freddys%202%202.0.4.ipa",
+      "dev": "Scott Cawthon",
+      "category": "Games",
+      "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS AGAIN!!!",
+      }
+    },
+    {
+      "name": "Five Nights At Freddy's: Sister Location",
+      "version": "v2.0",
+      "icon": "https://i.pinimg.com/originals/77/48/d6/7748d6df7aec585110338f92275802ce.png",
+      "down": "https://ia802207.us.archive.org/28/items/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa",
+      "dev": "Scott Cawthon",
+      "category": "Games",
+      "description": "THIS GAME SO SCARY... WEIRD BABY THING MAKE ME PEE PANTS!!!",
+      }
+    },
+    {
+      "name": "Five Nights At Freddy's: Ultimate Custom Night",
+      "version": "v1.0.1",
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Ultimate_Custom_Night_%28App_Icon%29.png/revision/latest?cb=20220625143324",
+      "down": "https://ia902209.us.archive.org/16/items/ultimate-custom-night-1.0.1/Ultimate%20Custom%20Night%201.0.1.ipa",
+      "dev": "Scott Cawthon",
+      "category": "Games",
+      "description": "THIS GAME SO SCARY... EVERY THING MAKE ME PEE PANTS!!!",
+      }
+    },
+    {
+      "name": "Five Nights At Freddy's: Pizzeria Simulator",
+      "version": "v1.0",
+      "icon": "https://static.wikia.nocookie.net/freddy-fazbears-pizzeria-simulator/images/d/d3/Fnaf6icon.png/revision/latest/scale-to-width-down/180?cb=20190824045400",
+      "down": "https://ia902204.us.archive.org/19/items/fnaf-6-pizzeria-simulator-v-1.0/FNAF%206%20Pizzeria%20Simulator%20v1.0.ipa",
+      "dev": "Scott Cawthon",
+      "category": "Games",
+      "description": "THIS GAME SO SCARY... THE PIZZA HAS A GHOST!!!",
+      }
+    },
+    {
+      "name": "Flappy Bird",
+      "version": "v4.3",
+      "down": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "dev": "Brandon Plank",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
+      "category": "Games",
+      "description": "Remember that one game that had everyone raging? It's back.",
+      }
+    },
+    {
+      "name": "Fortnite (Season 7)",
+      "version": "v7.40",
+      "down": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364.ipa",
+      "dev": "Epic Games",
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743",
+      "category": "Games",
+      "description": "Miss old Fortnite? Same here dude, same.",
+      }
+    },
+    {
+      "name": "Minecraft",
+      "version": "v1.20.31",
+      "down": "https://s3download.krakenfiles.com/force-download/ZWI1YWZjNTNiMmMyYzg5NqkG1JkywA8k9kZ9CLyBqZI_Gep2KzTywxCrdCKCXC2j/fT6qO2EU1e",
+      "dev": "Mojang (Microsoft)",
+      "icon": "https://static.wikia.nocookie.net/minecraft/images/f/f3/PocketEditionNewIcon.png/revision/latest/scale-to-width/360?cb=20160417234446",
+      "category": "Games",
+      "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you?",
+      }
+    }
+  ]
+}
