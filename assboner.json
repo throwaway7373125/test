@@ -153,6 +153,22 @@
       "description": "Apparently this is good, try it! :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
     },
     {
+      "name": "UTM (JIT)",
+      "version": "v4.3.5",
+      "icon": "https://avatars.githubusercontent.com/u/49966544",
+      "down": "https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.ipa",
+      "category": "Apps",
+      "description": "You know what, let's get Windows and whatever else running on an iPhone, why not!",
+    },
+    {
+      "name": "UTM",
+      "version": "v4.3.5",
+      "icon": "https://avatars.githubusercontent.com/u/49966544",
+      "down": "https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.SE.ipa",
+      "category": "Apps",
+      "description": "You know what, let's get Windows and whatever else running on an iPhone, why not!",
+    },
+    {
       "name": "Taurine",
       "version": "v1.1.7",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
