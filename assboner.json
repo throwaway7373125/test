@@ -156,6 +156,15 @@
       "dev": "GeoSn0w",
       "category": "Apps",
       "description": "Jailbreak for any 32-bit iOS 9 device"
-    }
+    },
+    {
+      "name": "Climax",
+      "version": "v1.4",
+      "icon": "https://ipa.cypwn.xyz/serve/icons/Climax.png",
+      "down": "https://ipa.cypwn.xyz/ipas/Climax.ipa",
+      "category": "Apps",
+      "banner": "https://static-00.iconduck.com/assets.00/flushed-face-emoji-512x512-801i44z6.png",
+      "description": "PORNO on IPHONE?? (IPA taken from Cypwn, just added it here bc I thought it was funny.)",
+    },
   ]
 }
