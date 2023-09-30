@@ -145,6 +145,14 @@
       "description": "Really reliable emulator for multiple consoles, I like it! :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
     },
     {
+      "name": "RetroArch",
+      "version": "v2.2.0",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6d/RetroArch_logo_theme.png",
+      "down": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
+      "category": "Apps",
+      "description": "Apparently this is good, try it! :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
+    },
+    {
       "name": "Taurine",
       "version": "v1.1.7",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
