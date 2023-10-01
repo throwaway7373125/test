@@ -1,26 +1,26 @@
 {
   "META": {
-    "repoName": "ugly ass dog",
-    "repoIcon": "https://media.discordapp.net/attachments/993650948373221426/1157802774193524897/IMG_7254.jpg"
+    "repoName": "Pierat Repo",
+    "repoIcon": "https://i.imgur.com/yw5qkxg.png"
   },
   "Apps": [
     {
       "name": "Geometry Dash",
       "version": "v2.13",
       "icon": "https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG",
-      "down": "https://download1334.mediafire.com/ryd67uk38gag4XQsXjMLRg3pOJ2LwyyMWGd2vhDyQR4GvJVQVMdGCdzKo5PRfklQJn7ejol8KzntkKLtRsdG6KPHnSk9dVWDa4kkmQqWA4DxJcFiK-z14lWWL-8d_EXNDJOGYM8jYD3nIFWEuhJfLyegCszXy_7DNyUQzVgGrtTJ/fwjxpj7cgfs9vwf/Geometry-Dash-v2-113.ipa",
+      "down": "https://files.seized.live/Geometry-Dash-v2-113.ipa",
       "dev": "RobTop Games",
       "category": "Apps",
-      "description": "mane i think everyone knows what this game is"
+      "description": "mane i think everyone knows what this game is (Big thank you to Confirmed for helping with hosting!)"
     },
     {
       "name": "GTA: San Andreas",
       "version": "v2.2.14",
       "icon": "https://freepngimg.com/save/28717-gta-san-andreas-hd/512x512",
-      "down": "https://download1584.mediafire.com/vylwyauss9ogjdv6uOYsWFib-CyT7N2gSRsZaF8qKlJi8RZqe_NrwfSqsNeOO_Sb6fFP5I0y61SZxdM5yg4hcaoAXl37u8D8sid0gQtP9kODNusf93ExA5lIG5ybJPnDKkEixYf-AqoYJtcHvQHLrI3zUbx7h3nTHbHwXe-4nFMQ/eqikugt6vj2u2ab/GTA-San-Andreas-v2.2.14FINDNEWFILEHOST.ipa",
+      "down": "https://files.seized.live/GTA-San-Andreas-v2.2.14FINDNEWFILEHOST.ipa",
       "dev": "Rockstar Games",
       "category": "Apps",
-      "description": "gand theft auto no way bro!!! (Download may be broken)"
+      "description": "gand theft auto no way bro!!! (Thank you Confirmed for hosting once again!)"
     },
     {
       "name": "Five Nights At Freddy's",
@@ -88,20 +88,20 @@
     {
       "name": "Minecraft",
       "version": "v1.20.31",
-      "down": "https://download1652.mediafire.com/vzu6hc6nptbgre2u4gOTrWsiLM95U-HV9qfb0Oc6-Y5pT2Xvs1MaSPNOpodX9BgYRIOntU40690dFoS3zRC6DKzxSV8BignP-AtZ5hNpoaWNViQcIbz_zK3HRw_M_i9IcRRWdC2ugR6Ok6rSsPI61QCiBtchC0s3yA9_emeOtnNn/94cwi7oqx3wq899/Minecraft-PE-v1.20.31.ipa",
+      "down": "https://files.seized.live/Minecraft-PE-v1.20.31.ipa",
       "dev": "Mojang (Microsoft)",
       "icon": "https://static.wikia.nocookie.net/minecraft/images/f/f3/PocketEditionNewIcon.png/revision/latest/scale-to-width/360?cb=20160417234446",
       "category": "Apps",
-      "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you?"
+      "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you? (TYSM CONFIRMED FOR HOSTING!)"
     },
     {
       "name": "Super Mario 64",
       "version": "v1.2.1",
-      "down": "https://s6download.krakenfiles.com/force-download/NjM5NmJkNDQyNGViODU1MBbW_ao3Osn4VHBBYMvCwchZFnVfBtBuADOu8pXHoyU3/y2b5iwFScU",
+      "down": "https://files.seized.live/SuperMario64_60FPS_1.2.1.ipa",
       "dev": "ckosmic",
       "icon": "https://assetsio.reedpopcdn.com/super_mario_64_switch_screen_4.jpg",
       "category": "Apps",
-      "description": "Super Mario 64. Pretty fun game, the 5th star of Shifting Sand Land is impossible on iOS though so don't even bother. (Remember, back up your game save data in case you get revoked!)"
+      "description": "Super Mario 64. Pretty fun game, the 5th star of Shifting Sand Land is impossible on iOS though so don't even bother. (Remember, back up your game save data in case you get revoked!) (Confirmed is hosting this one too, actual legend.)"
     },
     {
       "name": "iNDS",
@@ -110,7 +110,7 @@
       "down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
       "dev": "iNDS Team",
       "category": "Apps",
-      "description": "Nintendo DS emulator. Works wonders for me :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
+      "description": "Nintendo DS emulator. Works wonders for me :) - PieratDev (Remember, back up your game save data in case you get revoked!)",
     },
     {
       "name": "Delta",
@@ -119,7 +119,7 @@
       "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
       "dev": "Riley Testut",
       "category": "Apps",
-      "description": "Delta. It's an emulator, doesn't really work all that well for me though :( - Kosuq (Remember, back up your game save data in case you get revoked!)",
+      "description": "Delta. It's an emulator, doesn't really work all that well for me though :( - PieratDev (Remember, back up your game save data in case you get revoked!)",
       "enableBackup": true
     },
     {
@@ -129,7 +129,7 @@
       "down": "https://p.xx.wtf/PPSSPP_v1.15.4-717-g56c2974e5.ipa",
       "dev": "PPSSPP Team",
       "category": "Apps",
-      "description": "PlayStation Portable emulator. Haven't tried it :| - Kosuq (Remember, back up your game save data in case you get revoked!) (Taken from official Scarlet repo)",
+      "description": "PlayStation Portable emulator. Haven't tried it :| - PieratDev (Remember, back up your game save data in case you get revoked!) (Taken from official Scarlet repo)",
     },
     {
       "name": "emuThreeDS",
@@ -138,7 +138,7 @@
       "down": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.5.6/emuThreeDS.v1.0.6.5.6.ipa",
       "dev": "official-antique",
       "category": "Apps",
-      "description": "3DS emulator, really bipolar on when it wants to load ROMs or not. :| - Kosuq (Remember, back up your game save data in case you get revoked!)",
+      "description": "3DS emulator, really bipolar on when it wants to load ROMs or not. :| - PieratDev (Remember, back up your game save data in case you get revoked!)",
     },
     {
       "name": "Provenance",
@@ -147,7 +147,7 @@
       "down": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
       "dev": "JoeMatt",
       "category": "Apps",
-      "description": "Really reliable emulator for multiple consoles, I like it! :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
+      "description": "Really reliable emulator for multiple consoles, I like it! :) - PieratDev (Remember, back up your game save data in case you get revoked!)",
     },
     {
       "name": "RetroArch",
@@ -156,7 +156,7 @@
       "down": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
       "dev": "Libretro",
       "category": "Apps",
-      "description": "Apparently this is good, try it! :) - Kosuq (Remember, back up your game save data in case you get revoked!)",
+      "description": "Apparently this is good, try it! :) - PieratDev (Remember, back up your game save data in case you get revoked!)",
     },
     {
       "name": "UTM (JIT)",
