@@ -169,6 +169,22 @@
       "description": "You know what, let's get Windows and whatever else running on an iPhone, why not!",
     },
     {
+      "name": "Basilisk II",
+      "version": "v1",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/b/bb/Basilisk_snapshot9.png",
+      "down": "https://github.com/zydeco/macemu/releases/download/ios-v1.0/BasiliskII-ios-v1.0.ipa",
+      "category": "Apps",
+      "description": "A MacOS emulator. Really old MacOS version, pretty cool to play around with.",
+    },
+    {
+      "name": "iDOS",
+      "version": "v1",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/d/dd/DOSBox_icon.png",
+      "down": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
+      "category": "Apps",
+      "description": "DOS emulator. Woohoo, DOS games!",
+    },
+    {
       "name": "Taurine",
       "version": "v1.1.7",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
