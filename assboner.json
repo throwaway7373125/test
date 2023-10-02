@@ -11,9 +11,9 @@
       "down": "https://files.seized.live/Geometry%20Dash%20%28v2.11%20v2.1.1%20unk%2064bit%20os80%20ok14%29-user_hidden.bfi.ipa",
       "dev": "RobTop Games",
       "category": "Apps",
-      "description": "unc geeking off the yoinky sploinky (Big thank you to Confirmed for helping with hosting!) (Probably only works on versions below iOS 17.)"
+      "description": "unc geeking off the yoinky sploinky (Big thank you to Confirmed for helping with hosting!) (Probably only works on versions below iOS 17.)",
       "bundleID": "com.robtop.geometryjump",
-      "appstore": "com.robtop.geometryjump",
+      "appstore": "com.robtop.geometryjump"
     },
     {
       "name": "GTA: San Andreas",
@@ -22,9 +22,9 @@
       "down": "https://files.seized.live/GTASA%20%28v2.2.14%20v2023.0628.1446%20Univ%2064bit%20os130%20ok16%29-user_hidden.bfi2.ipa",
       "dev": "Rockstar Games",
       "category": "Apps",
-      "description": "gand theft auto no way bro!!! (Thank you Confirmed for hosting once again!) (Probably only works on versions below iOS 17.)"
+      "description": "gand theft auto no way bro!!! (Thank you Confirmed for hosting once again!) (Probably only works on versions below iOS 17.)",
       "bundleID": "com.rockstargames.gta3sa",
-      "appstore": "com.rockstargames.gta3sa",
+      "appstore": "com.rockstargames.gta3sa"
     },
     {
       "name": "Monument Valley",
@@ -33,9 +33,9 @@
       "down": "https://files.seized.live/Monument%20Valley%20%28v3.3.202%20Univ%20PI%20FW%20LP%2064bit%20os110%20ok16%29-user_hidden.bfi2.ipa",
       "dev": "Ustwo",
       "category": "Apps",
-      "description": "I remember playing this as a kid. (Probably only works on versions below iOS 17.)"
+      "description": "I remember playing this as a kid. (Probably only works on versions below iOS 17.)",
       "bundleID": "com.ustwo.monumentvalley",
-      "appstore": "com.ustwo.monumentvalley",
+      "appstore": "com.ustwo.monumentvalley"
     },
     {
       "name": "True Skate",
@@ -44,9 +44,9 @@
       "down": "https://files.seized.live/True%20Skate%20%28v1.5.70%20v2%203GS%20Univ%2064bit%20os90%20ok17%29-user_hidden.bfi2.ipa",
       "dev": "True Axis",
       "category": "Apps",
-      "description": "I can never get used to these controls. (Probably only works on versions below iOS 17.)"
+      "description": "I can never get used to these controls. (Probably only works on versions below iOS 17.)",
       "bundleID": "com.trueaxis.skate",
-      "appstore": "com.trueaxis.skate",
+      "appstore": "com.trueaxis.skate"
     },
     {
       "name": "Plague Inc.",
@@ -55,9 +55,9 @@
       "down": "https://files.seized.live/Plague%20Inc.%20%28v1.19.3%20v2000%20Univ%2064bit%20os93%20ok16%29-user_hidden.bfi2.ipa",
       "dev": "Ndemic Creations",
       "category": "Apps",
-      "description": "My ultra-religious grandma once said COVID-19 was God's payback for people playing this game. (Probably only works on versions below iOS 17.)"
+      "description": "My ultra-religious grandma once said COVID-19 was God's payback for people playing this game. (Probably only works on versions below iOS 17.)",
       "bundleID": "com.ndemiccreations.plagueinc",
-      "appstore": "com.ndemiccreations.plagueinc",
+      "appstore": "com.ndemiccreations.plagueinc"
     },
     {
       "name": "Flappy Bird",
@@ -84,9 +84,9 @@
       "dev": "Mojang (Microsoft)",
       "icon": "https://static.wikia.nocookie.net/minecraft/images/f/f3/PocketEditionNewIcon.png/revision/latest/scale-to-width/360?cb=20160417234446",
       "category": "Apps",
-      "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you? (TYSM CONFIRMED FOR HOSTING!) (Probably only works on versions below iOS 17.)"
+      "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you? (TYSM CONFIRMED FOR HOSTING!) (Probably only works on versions below iOS 17.)",
       "bundleID": "com.mojang.minecraftpe",
-      "appstore": "com.mojang.minecraftpe",
+      "appstore": "com.mojang.minecraftpe"
     },
     {
       "name": "Goat Simulator",
@@ -97,7 +97,7 @@
       "category": "Apps",
       "description": "Goat Simulator. Bleh. Confirmed's doing the hosting for this one too, so make sure you say thanks! (Probably only works on versions below iOS 17.)",
       "bundleID": "com.coffeestainstudios.goatsimulator",
-      "appstore": "com.coffeestainstudios.goatsimulator",
+      "appstore": "com.coffeestainstudios.goatsimulator"
     },
     {
       "name": "Super Mario 64",
@@ -124,7 +124,7 @@
       "down": "https://github.com/rileytestut/Delta/releases/download/v1.4/Delta_1_4.ipa",
       "dev": "Riley Testut",
       "category": "Apps",
-      "description": "Delta. It's an emulator, doesn't really work all that well for me though :( - PieratDev (Remember, back up your game save data in case you get revoked!)",
+      "description": "Delta. It's an emulator, doesn't really work all that well for me though :( - PieratDev (Remember, back up your game save data in case you get revoked!)"
     },
     {
       "name": "PPSSPP",
@@ -133,7 +133,7 @@
       "down": "https://p.xx.wtf/PPSSPP_v1.15.4-717-g56c2974e5.ipa",
       "dev": "PPSSPP Team",
       "category": "Apps",
-      "description": "PlayStation Portable emulator. Haven't tried it :| - PieratDev (Remember, back up your game save data in case you get revoked!) (Taken from official Scarlet repo)",
+      "description": "PlayStation Portable emulator. Haven't tried it :| - PieratDev (Remember, back up your game save data in case you get revoked!) (Taken from official Scarlet repo)"
     },
     {
       "name": "emuThreeDS",
@@ -142,7 +142,7 @@
       "down": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.5.6/emuThreeDS.v1.0.6.5.6.ipa",
       "dev": "official-antique",
       "category": "Apps",
-      "description": "3DS emulator, really bipolar on when it wants to load ROMs or not. :| - PieratDev (Remember, back up your game save data in case you get revoked!)",
+      "description": "3DS emulator, really bipolar on when it wants to load ROMs or not. :| - PieratDev (Remember, back up your game save data in case you get revoked!)"
     },
     {
       "name": "Provenance",
@@ -151,7 +151,7 @@
       "down": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
       "dev": "JoeMatt",
       "category": "Apps",
-      "description": "Really reliable emulator for multiple consoles, I like it! :) - PieratDev (Remember, back up your game save data in case you get revoked!)",
+      "description": "Really reliable emulator for multiple consoles, I like it! :) - PieratDev (Remember, back up your game save data in case you get revoked!)"
     },
     {
       "name": "RetroArch",
@@ -160,7 +160,7 @@
       "down": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
       "dev": "Libretro",
       "category": "Apps",
-      "description": "Apparently this is good, try it! :) - PieratDev (Remember, back up your game save data in case you get revoked!)",
+      "description": "Apparently this is good, try it! :) - PieratDev (Remember, back up your game save data in case you get revoked!)"
     },
     {
       "name": "UTM (JIT)",
@@ -169,7 +169,7 @@
       "down": "https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.ipa",
       "dev": "UTM Team",
       "category": "Apps",
-      "description": "You know what, let's get Windows and whatever else running on an iPhone, why not!",
+      "description": "You know what, let's get Windows and whatever else running on an iPhone, why not!"
     },
     {
       "name": "UTM",
@@ -178,7 +178,7 @@
       "down": "https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.SE.ipa",
       "dev": "UTM Team",
       "category": "Apps",
-      "description": "You know what, let's get Windows and whatever else running on an iPhone, why not!",
+      "description": "You know what, let's get Windows and whatever else running on an iPhone, why not!"
     },
     {
       "name": "Basilisk II",
@@ -187,7 +187,7 @@
       "down": "https://github.com/zydeco/macemu/releases/download/ios-v1.0/BasiliskII-ios-v1.0.ipa",
       "dev": "zydeco",
       "category": "Apps",
-      "description": "A MacOS emulator. Really old MacOS version, pretty cool to play around with.",
+      "description": "A MacOS emulator. Really old MacOS version, pretty cool to play around with."
     },
     {
       "name": "iDOS",
@@ -196,7 +196,7 @@
       "down": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
       "dev": "litchie",
       "category": "Apps",
-      "description": "DOS emulator. Woohoo, DOS games!",
+      "description": "DOS emulator. Woohoo, DOS games!"
     },
     {
       "name": "Taurine",
@@ -290,7 +290,7 @@
       "category": "Apps",
       "description": "Cracked Photomath. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.microblink.PhotoMath",
-      "appstore": "com.microblink.PhotoMath",
+      "appstore": "com.microblink.PhotoMath"
     },
     {
       "name": "Calm Premium",
@@ -301,7 +301,7 @@
       "category": "Apps",
       "description": "Cracked Calm. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.calm.calmapp",
-      "appstore": "com.calm.calmapp",
+      "appstore": "com.calm.calmapp"
     },
     {
       "name": "Flightradar24 Gold",
@@ -312,7 +312,7 @@
       "category": "Apps",
       "description": "Cracked Flightradar24 Gold. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "se.resenatverket.FlightRadar24-Free",
-      "appstore": "se.resenatverket.FlightRadar24-Free",
+      "appstore": "se.resenatverket.FlightRadar24-Free"
     },
     {
       "name": "HomeWorkout Premium",
@@ -323,7 +323,7 @@
       "category": "Apps",
       "description": "Cracked HomeWorkout. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.abishkking.maleworkout",
-      "appstore": "com.abishkking.maleworkout",
+      "appstore": "com.abishkking.maleworkout"
     },
     {
       "name": "ibisPaintX Prime",
@@ -334,7 +334,7 @@
       "category": "Apps",
       "description": "Cracked ibisPaintX Prime. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "jp.ne.ibis.ibisPaintX",
-      "appstore": "jp.ne.ibis.ibisPaintX",
+      "appstore": "jp.ne.ibis.ibisPaintX"
     },
     {
       "name": "InShot Premium",
@@ -345,7 +345,7 @@
       "category": "Apps",
       "description": "Cracked InShot Premium. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.camerasideas.InstaShot",
-      "appstore": "com.camerasideas.InstaShot",
+      "appstore": "com.camerasideas.InstaShot"
     },
     {
       "name": "MagicTiles3 VIP",
@@ -356,7 +356,7 @@
       "category": "Apps",
       "description": "Cracked MagicTiles3 VIP. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.amanotes.magictiles",
-      "appstore": "com.amanotes.magictiles",
+      "appstore": "com.amanotes.magictiles"
     },
     {
       "name": "Spotilife (Spotify Premium)",
@@ -367,7 +367,7 @@
       "category": "Apps",
       "description": "Cracked Spotify, I mean, how does this even happen? How does Spotify of all things get cracked somehow? Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.spotify.client",
-      "appstore": "com.spotify.client",
+      "appstore": "com.spotify.client"
     },
     {
       "name": "Twitch (AdBlock)",
@@ -378,7 +378,7 @@
       "category": "Apps",
       "description": "Twitch, but with adblock! Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "tv.twitch",
-      "appstore": "tv.twitch",
+      "appstore": "tv.twitch"
     },
     {
       "name": "Adobe Lightroom",
@@ -389,7 +389,7 @@
       "category": "Apps",
       "description": "Basically mobile photoshop. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.adobe.lrmobilephone",
-      "appstore": "com.adobe.lrmobilephone",
+      "appstore": "com.adobe.lrmobilephone"
     },
     {
       "name": "YouTube Music (Ultimate)",
@@ -400,7 +400,7 @@
       "category": "Apps",
       "description": "Premium YouTube Music for FREE! Confirmed's doing the hosting for this one too, so make sure you say thanks!",
       "bundleID": "com.google.ios.youtubemusic",
-      "appstore": "com.google.ios.youtubemusic",
+      "appstore": "com.google.ios.youtubemusic"
     },
   ]
 }
