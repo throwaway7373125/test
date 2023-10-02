@@ -6,9 +6,9 @@
   "Apps": [
     {
       "name": "Geometry Dash",
-      "version": "v2.13",
+      "version": "v2.113",
       "icon": "https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG",
-      "down": "https://files.seized.live/Geometry-Dash-v2-113.ipa",
+      "down": "https://files.seized.live/panda-GeometryJump-resigned.ipa",
       "dev": "RobTop Games",
       "category": "Apps",
       "description": "mane i think everyone knows what this game is (Big thank you to Confirmed for helping with hosting!)"
@@ -29,7 +29,7 @@
       "down": "https://download.cokernutx.com/ipadownload/Five-Nights-at-Freddys.ipa",
       "dev": "Scott Cawthon",
       "category": "Apps",
-      "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS!!!"
+      "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS!!! (Game may be broken, sorry if it is :p)"
     },
     {
       "name": "Five Nights At Freddy's 2",
@@ -38,7 +38,7 @@
       "down": "https://ia802201.us.archive.org/11/items/five-nights-at-freddys-2-2.0.4/Five%20Nights%20at%20Freddys%202%202.0.4.ipa",
       "dev": "Scott Cawthon",
       "category": "Apps",
-      "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS AGAIN!!!"
+      "description": "THIS GAME SO SCARY... GOLDEN FREDDY MAKE ME PEE PANTS AGAIN!!! (Game may be broken, sorry if it is :p)"
     },
     {
       "name": "Five Nights At Freddy's: Sister Location",
@@ -47,7 +47,7 @@
       "down": "https://ia802207.us.archive.org/28/items/fna-f-sister-location-2.0/FNaF%20Sister%20Location%202.0.ipa",
       "dev": "Scott Cawthon",
       "category": "Apps",
-      "description": "THIS GAME SO SCARY... WEIRD BABY THING MAKE ME PEE PANTS!!!"
+      "description": "THIS GAME SO SCARY... WEIRD BABY THING MAKE ME PEE PANTS!!! (Game may be broken, sorry if it is :p)"
     },
     {
       "name": "Five Nights At Freddy's: Ultimate Custom Night",
@@ -56,7 +56,7 @@
       "down": "https://ia902209.us.archive.org/16/items/ultimate-custom-night-1.0.1/Ultimate%20Custom%20Night%201.0.1.ipa",
       "dev": "Scott Cawthon",
       "category": "Apps",
-      "description": "THIS GAME SO SCARY... EVERY THING MAKE ME PEE PANTS!!!"
+      "description": "THIS GAME SO SCARY... EVERY THING MAKE ME PEE PANTS!!! (Game may be broken, sorry if it is :p)"
     },
     {
       "name": "Five Nights At Freddy's: Pizzeria Simulator",
@@ -65,7 +65,7 @@
       "down": "https://ia902204.us.archive.org/19/items/fnaf-6-pizzeria-simulator-v-1.0/FNAF%206%20Pizzeria%20Simulator%20v1.0.ipa",
       "dev": "Scott Cawthon",
       "category": "Apps",
-      "description": "THIS GAME SO SCARY... THE PIZZA HAS A GHOST!!!"
+      "description": "THIS GAME SO SCARY... THE PIZZA HAS A GHOST!!! (Game may be broken, sorry if it is :p)"
     },
     {
       "name": "Flappy Bird",
@@ -88,11 +88,20 @@
     {
       "name": "Minecraft",
       "version": "v1.20.31",
-      "down": "https://files.seized.live/Minecraft-PE-v1.20.31.ipa",
+      "down": "https://files.seized.live/Minecraft%20%28v1.20.31%20v1.20.31.01%20Univ%20FW%20LP%2064bit%20os110%20ok17%29-user_hidden.bfi2.ipa",
       "dev": "Mojang (Microsoft)",
       "icon": "https://static.wikia.nocookie.net/minecraft/images/f/f3/PocketEditionNewIcon.png/revision/latest/scale-to-width/360?cb=20160417234446",
       "category": "Apps",
       "description": "Minecraft. The game everyone's known about since 2009. If you don't know what this is, how old are you? (TYSM CONFIRMED FOR HOSTING!)"
+    },
+    {
+      "name": "Goat Simulator",
+      "version": "v1.9.7",
+      "icon": "https://play-lh.googleusercontent.com/8QnH9AhsRfhPott7REiFUXXJLRIxi8KMAP0mFAZpYgd44OTOCtScwXeb5oPe1E4eP4oF",
+      "down": "https://files.seized.live/Goat_Simulator_v.1.9.7.ipa",
+      "dev": "Coffee Stain Studios",
+      "category": "Apps",
+      "description": "Goat Simulator. Bleh. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
     },
     {
       "name": "Super Mario 64",
@@ -276,6 +285,123 @@
       "category": "Apps",
       "banner": "https://static-00.iconduck.com/assets.00/flushed-face-emoji-512x512-801i44z6.png",
       "description": "Furry porn app. I have no idea why I even added this, I thought it'd be funny.",
+    },
+    {
+      "name": "Photomath Plus",
+      "version": "v8.23.1",
+      "icon": "https://play-lh.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA",
+      "down": "https://files.seized.live/photomathplus-8.23.1-zxcvbn.ipa",
+      "dev": "zxcvbn",
+      "category": "Apps",
+      "description": "Cracked Photomath. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "Photomath Plus",
+      "version": "v8.23.1",
+      "icon": "https://play-lh.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA",
+      "down": "https://files.seized.live/photomathplus-8.23.1-zxcvbn.ipa",
+      "dev": "zxcvbn",
+      "category": "Apps",
+      "description": "Cracked Photomath. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "Calm Premium",
+      "version": "v6.30.2",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/d/dc/Calm.com_logo.png",
+      "down": "https://files.seized.live/Calm_6.30.2_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+      "dev": "asdfzxcvbn0",
+      "category": "Apps",
+      "description": "Cracked Calm. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "Flightradar24 Gold",
+      "version": "v9.11.0",
+      "icon": "https://play-lh.googleusercontent.com/8MqSuVUfOM16rKGLLvMExC3g58eQILMNQ75uBMsgMK9qJ6MhRtQnEFwDQK2VDdQHZpc",
+      "down": "https://files.seized.live/Flightradar24-Gold.ipa",
+      "dev": "Turki",
+      "category": "Apps",
+      "description": "Cracked Flightradar24 Gold. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "HomeWorkout Premium",
+      "version": "v1.18.2",
+      "icon": "https://play-lh.googleusercontent.com/Mxu4YhAr45fbX_iBwi4LiRuSDn9G8R-C_i6PF4Oqys6TqQab2Jl7U5w4WGDtoPwhpTk",
+      "down": "https://files.seized.live/HomeWorkout_1.18.2_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+      "dev": "asdfzxcvbn0",
+      "category": "Apps",
+      "description": "Cracked HomeWorkout. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "ibisPaintX Prime",
+      "version": "v11.0.0",
+      "icon": "https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk",
+      "down": "https://files.seized.live/ibisPaintX_11.0.0_Prime_%40asdfzxcvbn0_apptesters.org.ipa",
+      "dev": "asdfzxcvbn0",
+      "category": "Apps",
+      "description": "Cracked ibisPaintX Prime. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "ibisPaintX Prime",
+      "version": "v11.0.0",
+      "icon": "https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk",
+      "down": "https://files.seized.live/ibisPaintX_11.0.0_Prime_%40asdfzxcvbn0_apptesters.org.ipa",
+      "dev": "asdfzxcvbn0",
+      "category": "Apps",
+      "description": "Cracked ibisPaintX Prime. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "InShot Premium",
+      "version": "v1.72.0",
+      "icon": "https://www.inshotmodapk.com/wp-content/uploads/2023/03/InShot-Mod-APK.webp",
+      "down": "https://files.seized.live/InShot_1.72.0_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+      "dev": "asdfzxcvbn0",
+      "category": "Apps",
+      "description": "Cracked InShot Premium. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "MagicTiles3 VIP",
+      "version": "v10.083.301",
+      "icon": "https://cdn6.aptoide.com/imgs/0/7/4/074cb57ba4715f99eb7b46c473e08c85_icon.png",
+      "down": "https://files.seized.live/MagicTiles3_10.083.301_VIP_%40asdfzxcvbn0_apptesters.org.ipa",
+      "dev": "asdfzxcvbn0",
+      "category": "Apps",
+      "description": "Cracked MagicTiles3 VIP. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "Spotilife (Spotify Premium)",
+      "version": "v8.8.64",
+      "icon": "https://static-00.iconduck.com/assets.00/spotify-icon-512x511-5p0rqbu1.png",
+      "down": "https://files.seized.live/spotilife-8.8.64-zxcvbn.ipa",
+      "dev": "zxcvbn",
+      "category": "Apps",
+      "description": "Cracked Spotify, I mean, how does this even happen? How does Spotify of all things get cracked somehow? Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "Twitch (AdBlock)",
+      "version": "v16.1",
+      "icon": "https://cdn-icons-png.flaticon.com/512/4138/4138153.png",
+      "down": "https://files.seized.live/Twitch_16.1_TwitchAdblocK-0.0.9-3_%40asdfzxcvbn0_apptesters.org.ipa",
+      "dev": "asdfzxcvbn0",
+      "category": "Apps",
+      "description": "Twitch, but with adblock! Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "Adobe Lightroom",
+      "version": "v8.5.1",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1051px-Adobe_Photoshop_Lightroom_CC_logo.svg.png",
+      "down": "https://files.seized.live/up-ipa.comLightroom-8-5-1-.ipa",
+      "dev": "Adobe",
+      "category": "Apps",
+      "description": "Basically mobile photoshop. Confirmed's doing the hosting for this one too, so make sure you say thanks!",
+    },
+    {
+      "name": "YouTube Music (Ultimate)",
+      "version": "v1.5.2",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
+      "down": "https://files.seized.live/YTMUltimate_v1.5.2_YTM6.20.2-dayanch.ipa",
+      "dev": "dayanch",
+      "category": "Apps",
+      "description": "Premium YouTube Music for FREE! Confirmed's doing the hosting for this one too, so make sure you say thanks!",
     },
   ]
 }
